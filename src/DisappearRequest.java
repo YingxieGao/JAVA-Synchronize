@@ -28,7 +28,7 @@ public class DisappearRequest implements Runnable {
     //         }
     //     }
     // }
-
+    //Pick a solution
     @Override
     public void run() {
         synchronized (DisappearRequest.class) {
